@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+section{
+    background-color: rgb(189, 154, 154);
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ position: relative;
+}
+.card{
+    
+box-shadow: inset 5px 5px 3px #fcd5e0d2,
+            inset -5px -5px 3px #754f4f79;
+                 
+    background-color: #D9AFD9;
+background-image: linear-gradient(0deg, #ddaace6b 0%, #e6cc7796 100%);
+    opacity: 10px;
+    position: relative;
+    top: 10%;
+    border-radius: 20px;
+    padding: 10px 10px 20px;
+    text-align: center;
+    }
+a{
+    text-decoration: none;
+}
+.img img{
+    position: absolute;
+    top: 0%;
+ width: 280px;
+}
+.know{
+   display: grid;
+   margin-top: 15%;
+}
+
+strong{
+    bottom: 10%;
+}
+
+
