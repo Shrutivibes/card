@@ -39,5 +39,9 @@ a{
 strong{
     bottom: 10%;
 }
-
+@media only screen and (max-width:768px){
+.card{
+  top: 0%;  
+}
+}
 
