@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 section{
-    background-color: rgb(189, 154, 154);
+    background-color: rgb(158, 101, 101);
     height:100vh;
     display: flex;
     justify-content: center;
